@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HavlikovaKr
 - 🌱 I’m currently learning testing
-- 📫 How to reach me kr.havlikova17@gmaiil.com
+- 📫 How to reach me kr.havlikova17@gmail.com
 
 
 <!---
